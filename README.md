@@ -6,3 +6,5 @@ This full-stack site will take in results from your users' surveys, then compare
 npm install dotenv express bode-parser
 
 ````
+
+![screenshot](img/friendfinder.png)

@@ -367,6 +367,6 @@ var friendArray = [
 "1"
 ]
 }
-]
+];
 
 exports.module = friendArray;
